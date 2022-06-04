@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+  LINK : не найден или не выполнена сборка C:\Users\mq_mew\Desktop\infinity\x64\Release\infinity.space.dll при последней инкрементной компоновке; выполняется полная компоновка
+dllmain.obj : warning LNK4210: секция .CRT существует; могут существовать необработанные статические инициализаторы или знаки завершения
+  Rust-Internal-Recode.vcxproj -> C:\Users\mq_mew\Desktop\infinity\x64\Release\infinity.space.dll
